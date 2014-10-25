@@ -1,0 +1,9 @@
+<!--
+    Created by TickClick on 25/10/2014 for the FinappsParty
+    -->
+
+<resources>
+    <dimen name="page_row_margin">100dp</dimen>
+    <dimen name="page_column_margin">10dp</dimen>
+    <dimen name="page_column_margin_round">50dp</dimen>
+</resources>
